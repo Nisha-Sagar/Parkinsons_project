@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435331385958",
+    "project_id": "disease-81908",
+    "storage_bucket": "disease-81908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435331385958:android:711e87c5d7182632b03ba7",
+        "android_client_info": {
+          "package_name": "com.example.parkinsons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_9ZJPKiOxetkN5wo4pnlX8xbr0umsGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
